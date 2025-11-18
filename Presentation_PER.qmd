@@ -1,0 +1,31 @@
+---
+title: "When Big Business Loses (?) : The Political Economy of Regulation in the Context of Noisy Politics"
+format: 
+  beamer:
+    keep-tex: true
+    toc: false
+    slide-level: 2
+    incremental: FALSE
+    theme: Rochester
+editor: visual
+author:
+  - Oscar Dumas
+  - Hyung Won Kim
+  - Nikolaos Vichos
+---
+
+## Overview of Presentation {.fragile}
+
+1.  Introduction
+2.  Theoretical Framework and Important Concepts: Noisy Politics
+3.  Side-By-Side: Paper Summaries and Critical Discussion
+4.  Synthesis: What Unites the Two Papers?
+5.  Contextualization: Noisy Politics and the Political Economy of Regulation
+6.  Conclusion and Discussion
+
+# Introduction
+
+## Texts
+
+-   Massoc, Elsa. 2019. “Taxing Stock Transfers in the First Golden Age of Financial Capitalism: Political Salience and the Limits on the Power of Finance.” *Socio-Economic Review* 17 (3): 503–22. https://doi.org/10.1093/ser/mwx039.
+-   Feldmann, Magnus, and Glenn Morgan. 2021. “Brexit and British Business Elites: Business Power and Noisy Politics.” *Politics & Society* 49 (1): 107–31. https://doi.org/10.1177/0032329220985692.
