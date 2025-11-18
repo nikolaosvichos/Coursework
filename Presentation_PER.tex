@@ -104,6 +104,39 @@
 \makeatother
 
 
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
 
 
 
@@ -214,6 +247,81 @@ in the Context of Noisy Politics}
   Business Elites: Business Power and Noisy Politics.'' \emph{Politics
   \& Society} 49 (1): 107--31. https://doi.org/10.1177/0032329220985692.
 \end{itemize}
+\end{frame}
+
+\begin{frame}{Research Focus}
+\phantomsection\label{research-focus}
+\begin{block}{Massoc (2019) :}
+\phantomsection\label{massoc2019}
+\begin{itemize}
+\tightlist
+\item
+  Why did powerful financial actors fail to prevent the adoption of
+  stock-transfer taxes in France and New York?
+\item
+  \textbf{Focus}: how public discontent + political framing raised
+  salience and undermined ``quiet politics.''
+\end{itemize}
+\end{block}
+
+\begin{block}{Feldmann and Morgan (2021):}
+\phantomsection\label{feldmann2021}
+\begin{itemize}
+\tightlist
+\item
+  Under what conditions can business elites be effective in a context of
+  noisy politics, and why did their influence differ between 1975 and
+  2016?
+\item
+  \textbf{Focus}: how incentives, legitimacy, and cohesion shape
+  business influence in high-politicization referendum campaigns.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{What brings these papers together?}
+\phantomsection\label{what-brings-these-papers-together}
+Both papers examine how political visibility and public contestation
+reshape business/financial influence
+
+\begin{itemize}
+\item
+  Massoc (2019) shows how politicization of a tax issue enabled
+  politicians to override strong financial lobbying.
+\item
+  Feldmann and Morgan (2021) analyze how changing political conditions
+  over time affect business effectiveness in high-visibility referendum
+  campaigns.\\
+\end{itemize}
+
+\begin{block}{\textbf{Common Question}}
+\phantomsection\label{common-question}
+\begin{itemize}
+\tightlist
+\item
+  \emph{Under what conditions do business actors struggle to assert
+  influence?}
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}[allowframebreaks]{Bibliography}
+\phantomsection\label{bibliography}
+\phantomsection\label{refs}
+\begin{CSLReferences}{1}{0}
+\bibitem[\citeproctext]{ref-feldmann2021}
+Feldmann, Magnus, and Glenn Morgan. 2021. {``Brexit and British Business
+Elites: Business Power and Noisy Politics*.''} \emph{Politics \&
+Society} 49 (1): 107--31.
+\url{https://doi.org/10.1177/0032329220985692}.
+
+\bibitem[\citeproctext]{ref-massoc2019}
+Massoc, Elsa. 2019. {``Taxing Stock Transfers in the First Golden Age of
+Financial Capitalism: Political Salience and the Limits on the Power of
+Finance.''} \emph{Socio-Economic Review} 17 (3): 503--22.
+\url{https://doi.org/10.1093/ser/mwx039}.
+
+\end{CSLReferences}
 \end{frame}
 
 

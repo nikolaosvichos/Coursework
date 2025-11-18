@@ -12,6 +12,7 @@ author:
   - Oscar Dumas
   - Hyung Won Kim
   - Nikolaos Vichos
+bibliography: references.bib
 ---
 
 ## Overview of Presentation {.fragile}
@@ -29,3 +30,33 @@ author:
 
 -   Massoc, Elsa. 2019. “Taxing Stock Transfers in the First Golden Age of Financial Capitalism: Political Salience and the Limits on the Power of Finance.” *Socio-Economic Review* 17 (3): 503–22. https://doi.org/10.1093/ser/mwx039.
 -   Feldmann, Magnus, and Glenn Morgan. 2021. “Brexit and British Business Elites: Business Power and Noisy Politics.” *Politics & Society* 49 (1): 107–31. https://doi.org/10.1177/0032329220985692.
+
+## Research Focus
+
+### @massoc2019 :
+
+-   Why did powerful financial actors fail to prevent the adoption of stock-transfer taxes in France and New York?
+-   **Focus**: how public discontent + political framing raised salience and undermined “quiet politics.”
+
+### @feldmann2021:
+
+-   Under what conditions can business elites be effective in a context of noisy politics, and why did their influence differ between 1975 and 2016?
+-   **Focus**: how incentives, legitimacy, and cohesion shape business influence in high-politicization referendum campaigns.
+
+## What brings these papers together?
+
+Both papers examine how political visibility and public contestation reshape business/financial influence
+
+-   @massoc2019 shows how politicization of a tax issue enabled politicians to override strong financial lobbying.
+
+-   @feldmann2021 analyze how changing political conditions over time affect business effectiveness in high-visibility referendum campaigns.\
+
+
+### **Common Question**
+
+-   *Under what conditions do business actors struggle to assert influence?*
+
+## Bibliography {.allowframebreaks}
+
+::: {#refs}
+:::
