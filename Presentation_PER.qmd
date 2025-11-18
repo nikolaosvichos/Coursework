@@ -51,10 +51,30 @@ Both papers examine how political visibility and public contestation reshape bus
 
 -   @feldmann2021 analyze how changing political conditions over time affect business effectiveness in high-visibility referendum campaigns.\
 
-
 ### **Common Question**
 
 -   *Under what conditions do business actors struggle to assert influence?*
+
+## Culpepper’s Framework: Quiet vs. Noisy Politics
+
+**Core hypothesis:** The more the public cares about an issue, the less business can exercise disproportionate influence over regulation. Business power decreases as political salience increases.
+
+
+\small
+
+| **Quiet Politics** | **Noisy Politics** |
+|------------------------------------|------------------------------------|
+| Issues are technically complex and low in public salience. Business dominates through expertise monopoly and structural dependence. | Issues become publicly salient and politicized. Media attention and public engagement constrain business influence and organizations become cautious and may avoid public positioning. |
+
+\normalsize
+
+Three forms of business power:
+
+1.  Structural: State depends on business for investment and employment.
+2.  Instrumental: Lobbying, campaign contributions, expertise access, revolving doors.
+3.  Ideational: Cognitive capture through accepted narratives (“what is good for business is good for everyone”)
+
+The challenge: Business power persists even in noisy politics through technical complexity, strategic network-building, and control of core growth sectors.
 
 ## Bibliography {.allowframebreaks}
 
