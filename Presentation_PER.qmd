@@ -331,7 +331,7 @@ Business defense works only when three conditions align:
 +------------------------+--------------------------------------+-----------------------------------------+
 |                        | **Incumbents’ Shield**               | **Underdogs’ Spear**                    |
 |                        |                                      |                                         |
-|                        | [@thiemann2017]\                     | [@massoc2019, @feldmann2021]            |
+|                        | [@thiemann2017]\                     | [@massoc2019; @feldmann2021]            |
 +------------------------+--------------------------------------+-----------------------------------------+
 | **Weapon**             | **Complexity**                       | **Simplification**                      |
 |                        |                                      |                                         |
