@@ -7,12 +7,16 @@ format:
     slide-level: 2
     incremental: FALSE
     theme: Rochester
+    tbl-cap-location: "top"
 editor: visual
 author:
   - Oscar Dumas
   - Hyung Won Kim
   - Nikolaos Vichos
 bibliography: references.bib
+header-includes:
+  - \usepackage{xcolor}
+  - \definecolor{mygreen}{RGB}{0,100,0}
 ---
 
 ## Overview of Presentation {.fragile}
@@ -57,24 +61,93 @@ Both papers examine how political visibility and public contestation reshape bus
 
 ## Culpepper’s Framework: Quiet vs. Noisy Politics
 
-**Core hypothesis:** The more the public cares about an issue, the less business can exercise disproportionate influence over regulation. Business power decreases as political salience increases.
+**Core hypothesis:** The more the public cares about an issue, the less business can exercise influence over regulation. Business power decreases as political salience increases [@culpepper2021]. \small
 
-
-\small
-
-| **Quiet Politics** | **Noisy Politics** |
-|------------------------------------|------------------------------------|
-| Issues are technically complex and low in public salience. Business dominates through expertise monopoly and structural dependence. | Issues become publicly salient and politicized. Media attention and public engagement constrain business influence and organizations become cautious and may avoid public positioning. |
+```{=latex}
+\begin{tabular}{p{0.48\textwidth} p{0.48\textwidth}}
+\hline
+\textbf{Quiet Politics} & \textbf{Noisy Politics} \\
+\hline
+Issues are technically complex and low in public salience. Business dominates through expertise monopoly and structural dependence. &
+Issues become publicly salient and politicized. Media attention and public engagement constrain business influence and organizations become cautious and may avoid public positioning. \\
+\hline
+\end{tabular}
+```
 
 \normalsize
 
-Three forms of business power:
+-   **Three forms of business power**: structural, instrumental, and ideational
+-   **The challenge**: Business power persists even in noisy politics through technical complexity, strategic network-building, and control of core growth sectors.
 
-1.  Structural: State depends on business for investment and employment.
-2.  Instrumental: Lobbying, campaign contributions, expertise access, revolving doors.
-3.  Ideational: Cognitive capture through accepted narratives (“what is good for business is good for everyone”)
+## @feldmann2021 : Brexit and British Business Elites
 
-The challenge: Business power persists even in noisy politics through technical complexity, strategic network-building, and control of core growth sectors.
+**The question**: When can business elites influence “noisy politics”? Comparing EU Referenda
+
+**Three determinants of business effectiveness**:
+
+![](Screenshot%202025-11-18%20at%2014.13.03.png){fig-align="center" width="330"}
+
+**The mechanism**
+
+-   1975: Unified business presence in workplaces → counter-framing succeeds
+
+-   2016: Fragmented business silent or hedging → anti-establishment framing dominates
+
+## @massoc2019 **:** Stock Transfer Tax & Political Salience
+
+**The puzzle:** Same anti-finance sentiment → Different outcomes.
+
+**Why?**
+
+### 1903: Stock transfer tax proposed
+
+↓ Public anger: \textcolor{mygreen}{Financial crisis + anti-finance sentiment}
+
+↓ Finance opposition: \textcolor{mygreen}{Massive}
+
+→ **Outcome:** \textcolor{red}{Rejected}
+
+### 1905: Stock transfer tax proposed (same tax!)
+
+↓ Public anger: \textcolor{mygreen}{Same level}
+
+↓ Finance opposition: \textcolor{mygreen}{Same level}
+
+→Difference: Political champions (Senators Lewis & Raines) publicly framed issue
+
+→ **Outcome:** \textcolor{mygreen}{Passed}
+
+## The answer: Framing creates salience
+
+It requires political entrepreneurs who:
+
+-   Reframe complexity as simple antagonism (“finance vs. people”)
+
+-   Have incentive to alienate finance (party positioning)
+
+-   Actively publicize the issue (top-down process)
+
+-   Same structural conditions; different political choices = different outcomes
+
+## Critical review – What actually causes business defeat?
+
+**Framing as a cause – Massoc’s logic:**
+
+-   \textcolor{mygreen}{Shows political agency matters}
+
+-   \textcolor{mygreen}{Same conditions → different framing = different outcomes}
+
+-   \textcolor{red}{Does not explain why framing succeeds in some contexts not others}
+
+**Elite fragmentation as a cause – Feldmann & Morgan’s logic:**
+
+-   \textcolor{mygreen}{Shows structural vulnerability enables defeats}
+
+-   \textcolor{mygreen}{975 cohesion defeats framing attempts; 2016 fragmentation allows framing to succeed}
+
+-   \textcolor{red}{Does not explain how fragmentation becomes politically visible}
+
+
 
 ## Bibliography {.allowframebreaks}
 
