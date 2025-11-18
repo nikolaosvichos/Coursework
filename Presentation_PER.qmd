@@ -80,17 +80,21 @@ Issues become publicly salient and politicized. Media attention and public engag
 
 ## @feldmann2021 : Brexit and British Business Elites
 
+\small
+
 **The question**: When can business elites influence “noisy politics”? Comparing EU Referenda
 
 **Three determinants of business effectiveness**:
 
-![](Screenshot%202025-11-18%20at%2014.13.03.png){fig-align="center" width="330"}
+![](Screenshot%202025-11-18%20at%2014.13.03.png){fig-align="center" width="283"}
 
 **The mechanism**
 
 -   1975: Unified business presence in workplaces → counter-framing succeeds
 
 -   2016: Fragmented business silent or hedging → anti-establishment framing dominates
+
+\normalsize
 
 ## @massoc2019 **:** Stock Transfer Tax & Political Salience
 
@@ -142,7 +146,7 @@ It requires political entrepreneurs who:
 
 -   \textcolor{mygreen}{Shows structural vulnerability enables defeats}
 
--   \textcolor{mygreen}{975 cohesion defeats framing attempts; 2016 fragmentation allows framing to succeed}
+-   \textcolor{mygreen}{1975 cohesion defeats framing attempts; 2016 fragmentation allows framing to succeed}
 
 -   \textcolor{red}{Does not explain how fragmentation becomes politically visible}
 
