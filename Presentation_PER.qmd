@@ -189,7 +189,7 @@ Business defense works only when three conditions align:
 
 ## Anti-Business Offense” vs “Business Defense”
 
--   Massoc explains how politicians win by activating the offense whereas Feldmann & Morgan explain how business can (or cannot) counterattack.
+-   @massoc2019 explains how politicians win by activating the offense whereas @feldmann2021 explain how business can (or cannot) counterattack.
 
 -   Offense gains power when issues are moralized, simplified, and made public. Under the same conditions, business loses:
 
@@ -203,7 +203,84 @@ Business defense works only when three conditions align:
 
 -   Massoc describes the conditions for business defeat; Feldmann and Morgan describe the mechanics of business resistance.
 
--   A full political-economy picture emerges only when offense and defense are examined together.\
+-   A full political-economy picture emerges only when offense and defense are examined together.
+
+## Manicheanism
+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| *“Politics is a struggle between good and evil. \[...\] The Manichean worldview sees the struggle between opposing camps as an inherently moral one.”* [@jungkunz2021] |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Manicheanism in @massoc2019 and @feldmann2021
+
+-   @massoc2019
+
+    -   Central to the offense: “Speculators vs. workers”
+
+    -   Turns a technical tax into a moral crusade, neutralizing expert arguments.
+
+-   @feldmann2021
+
+    -   Not named as “manicheanism,” but structurally identical: Brexit as “the people vs. the establishment.”
+
+    -   Business expertise becomes delegitimized (“Project Fear”).
+
+    -   Manicheanism collapses the three conditions for effective business defense.
+
+## Synthesizing Manicheanism
+
+**Manicheanism as the bridge between defense and offense**
+
+-   Manichean framing empowers anti-business offense
+
+-   It simultaneously undermines business defense by:
+
+    -   Making business appear self-interested
+
+    -   Casting warnings as elite manipulation
+
+    -   Punishing technocratic/complex messaging
+
+    -   Fragmenting business coalitions
+
+**Across contexts separated by a century, Manichean politics reorders power:**
+
+-   Politicians gain room to attack
+
+-   Business loses the capacity to respond
+
+# Contextualization: Noisy Politics and the Political Economy of Regulation
+
+## The Shift of the “Big Gun”: From Legal Sanctions (Session 5) to Political Strikes (Session 9)
+
+\tiny
+
++-------------------------+---------------------------------------------------+-----------------------------------------------+----------------------------------------------------+
+| **Category**            | **Legal Sanctions:**                              | **Reality:**                                  | **Political Strikes:**                             |
+|                         |                                                   |                                               |                                                    |
+|                         | **Institutional Ideals**                          | **The Breakdown**                             | **The Shift to Noise**                             |
++=========================+===================================================+===============================================+====================================================+
+| **Regulatory Model**    | **Benign Big Gun** [@ayres1995]                   | **Broken Gun**                                | **Political Big Gun** [@massoc2019; @feldmann2021] |
+|                         |                                                   |                                               |                                                    |
+|                         | Strong legal sanctions such as license revocation | Legal power disabled due to 'Too Big to Fail' | Political strike using Public Salience\            |
++-------------------------+---------------------------------------------------+-----------------------------------------------+----------------------------------------------------+
+| **Regulatory Actor\     | **Organized PIGs**                                | \-                                            | **Unorganized Public**                             |
+| **                      |                                                   |                                               |                                                    |
+|                         | (Public Interest Groups)                          |                                               |                                                    |
++-------------------------+---------------------------------------------------+-----------------------------------------------+----------------------------------------------------+
+| **Regulatory Mechanism\ | **Institutional deterrence**                      | **Loss of regulator's bargaining power**      | **Non-institutional Explosion**                    |
+| **                      |                                                   |                                               |                                                    |
+|                         | Constant surveillance within the pyramid\         |                                               | External pressure via public mobilization)         |
++-------------------------+---------------------------------------------------+-----------------------------------------------+----------------------------------------------------+
+| **Target Behavior\      | **Voluntary Compliance**                          | **Evasion or Capture**                        | **Coerced Submission**                             |
+| **                      |                                                   |                                               |                                                    |
++-------------------------+---------------------------------------------------+-----------------------------------------------+----------------------------------------------------+
+| **Regulatory Effect**   | **Stable Deterrence**                             | **Regulatory Void**                           | **Temporary impact** (vulnerable to rollback)      |
+|                         |                                                   |                                               |                                                    |
+|                         | **+ High sustainability**                         |                                               | **+ High volatility**                              |
++-------------------------+---------------------------------------------------+-----------------------------------------------+----------------------------------------------------+
+
+\normalsize
 
 ## Bibliography {.allowframebreaks}
 
