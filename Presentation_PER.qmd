@@ -30,19 +30,14 @@ header-includes:
 
 # Introduction
 
-## Texts
+## Texts and Research Focus
 
--   Massoc, Elsa. 2019. “Taxing Stock Transfers in the First Golden Age of Financial Capitalism: Political Salience and the Limits on the Power of Finance.” *Socio-Economic Review* 17 (3): 503–22. https://doi.org/10.1093/ser/mwx039.
--   Feldmann, Magnus, and Glenn Morgan. 2021. “Brexit and British Business Elites: Business Power and Noisy Politics.” *Politics & Society* 49 (1): 107–31. https://doi.org/10.1177/0032329220985692.
-
-## Research Focus
-
-### @massoc2019 :
+### @massoc2019 : “Taxing Stock Transfers in the First Golden Age of Financial Capitalism: Political Salience and the Limits on the Power of Finance” 
 
 -   Why did powerful financial actors fail to prevent the adoption of stock-transfer taxes in France and New York?
 -   **Focus**: how public discontent + political framing raised salience and undermined “quiet politics.”
 
-### @feldmann2021:
+### @feldmann2021 : “Brexit and British Business Elites: Business Power and Noisy Politics"
 
 -   Under what conditions can business elites be effective in a context of noisy politics, and why did their influence differ between 1975 and 2016?
 -   **Focus**: how incentives, legitimacy, and cohesion shape business influence in high-politicization referendum campaigns.
@@ -81,7 +76,7 @@ Issues become publicly salient and politicized. Media attention and public engag
 -   **Three forms of business power**: structural, instrumental, and ideational
 -   **The challenge**: Business power persists even in noisy politics through technical complexity, strategic network-building, and control of core growth sectors.
 
-# Side-By-Side: Paper Summaries and Critical Discussio
+# Side-By-Side: Paper Summaries and Critical Discussion
 
 ## @feldmann2021 : Brexit and British Business Elites
 
@@ -279,6 +274,147 @@ Business defense works only when three conditions align:
 |                         |                                                   |                                               |                                                    |
 |                         | **+ High sustainability**                         |                                               | **+ High volatility**                              |
 +-------------------------+---------------------------------------------------+-----------------------------------------------+----------------------------------------------------+
+
+\normalsize
+
+## Who Pulls the Trigger?: Incumbents’ Silence (Session 3/4) vs. Underdog’s Noise (Session 9)
+
+ **Why Noise: The engine for Democratic Cycling**
+
+-   **Incumbents**: Prefer *silence* ("quiet politics") to *maintain structural/ instrumental power*
+
+-   **Underdog**: Need *noise* ("noisy politics") to mobilize the majority and *challenge established powers*
+
+**→ Noisy Politics as a “*safety valve*” for Democracy**
+
+## The Paradox of the Underdog’s Weapon: Safety Valve or Epistemic Chaos
+
+\tiny
+
++----------------------------+-----------------------------------------------+-----------------------------------------------------------------------+
+| **Role of Noise**          | **Safety Valve**                              | **Epistemic Chaos**                                                   |
+|                            |                                               |                                                                       |
+|                            | [@mcgann2006]                                 | [@culpepper2021]                                                      |
++============================+===============================================+=======================================================================+
+| **Core Mechanism**         | **Majoritarianism**                           | **Tribalism**                                                         |
+|                            |                                               |                                                                       |
+|                            | Mobilizing the defeated majority\             | Parallel universes believing in alternative facts                     |
+|                            | to overturn results\                          |                                                                       |
++----------------------------+-----------------------------------------------+-----------------------------------------------------------------------+
+| **Prerequisite Condition** | **Shared Public Sphere**                      | **Condition Failed** (Facts denied: "Fake News", "Enough of experts") |
+|                            |                                               |                                                                       |
+|                            | (Consensus on "What is Fact?")\               |                                                                       |
++----------------------------+-----------------------------------------------+-----------------------------------------------------------------------+
+| **Outcome**                | **Healthy Democratic Cycling**                | **Polarized Gridlock & Rupture**                                      |
+|                            |                                               |                                                                       |
+|                            | Breaking the incumbent cartel                 | Paralyzing deliberation\                                              |
+|                            |                                               | & Destructive rupture                                                 |
+|                            | & Ensuring policy responsiveness\             |                                                                       |
++----------------------------+-----------------------------------------------+-----------------------------------------------------------------------+
+| **Case Application**       | **1905 New York & 1893 France** [@massoc2019] | **2016 Brexit [@feldmann2021]**                                       |
+|                            |                                               |                                                                       |
+|                            | Shared anger over “Wall Street Corruption”    | Economic facts denied                                                 |
+|                            |                                               |                                                                       |
+|                            | \textcolor{mygreen}{(condition met)}          | \textcolor{red}{(condition failed)}                                   |
+|                            |                                               |                                                                       |
+|                            | → Functioned as a **Safety Valve**            | Plunged into **Epistemic Chaos**                                      |
++----------------------------+-----------------------------------------------+-----------------------------------------------------------------------+
+
+\normalsize
+
+## The Hollow Shot? Winning the War of Votes, Losing the Battle of Implementation
+
+**Depoliticized Complexity (Session 6 & 8) vs. Repoliticized Simplicity (Session 9)**
+
+\scriptsize
+
++------------------------+--------------------------------------+-----------------------------------------+
+|                        | **Incumbents’ Shield**               | **Underdogs’ Spear**                    |
+|                        |                                      |                                         |
+|                        | [@thiemann2017]\                     | [@massoc2019, @feldmann2021]            |
++------------------------+--------------------------------------+-----------------------------------------+
+| **Weapon**             | **Complexity**                       | **Simplification**                      |
+|                        |                                      |                                         |
+|                        | Technical language & models\         | Moral Framing & Manichean Slogans\      |
++------------------------+--------------------------------------+-----------------------------------------+
+| **Goal**               | **Depoliticization**                 | **Re**-**politicization**               |
+|                        |                                      |                                         |
+|                        | Keep regulation in expert domain\    | Mobilize public anger                   |
++------------------------+--------------------------------------+-----------------------------------------+
+| **Sources**            | **Conceptual & Structural Power\     | **Noisy Politics & Political Salience** |
+|                        | **                                   |                                         |
++------------------------+--------------------------------------+-----------------------------------------+
+| **Arena of Dominance** | **Technical Rule-making & Loophole** | **Public Debate & Voting**              |
++------------------------+--------------------------------------+-----------------------------------------+
+
+\normalsize
+
+## The Hollow Shot? Winning the War of Votes, Losing the Battle of Implementation
+
+\footnotesize
+
+### **After the Strike**
+
+-   **The Shot (Political Win):** Simplification successfully breaks the shield → *Law Passed.*
+
+-   **The Trap (Implementation Gap):** Simple moral language fails to control technical details during implementation.
+
+→ **Result:** "The Hollow Shot" → Political Victory $\not=$ Regulatory Success
+
+### **Evidence: The Hollow Aftermath**
+
+-   **The Cunning Recapture:** 1905 New York (Massoc, 2017)\
+    → The STT laws adopted (1905)\
+    → *"special arrangements and exemptions"* via *technical lobbying***\
+    **→ *Regulatory Failure* (tax revenues declined)
+
+-   **The Incompetent Chaos**: 2016 Brexit (Feldmann & Morgan, 2021)\
+    → Won the Brexit Vote (52%)\
+    → *“chaotic negotiations”* post-referendum\
+    → *Regulatory Gridlock* (complex trade realities overwhelmed the simple mandate)
+
+\normalsize
+
+# Conclusion and Discussion
+
+## The Double-Edged Sword of Noise
+
+**The Conditions for Victory (How to Win)**
+
+-   **Business power** is not absolute. It breaks when simple, moral framing [@massoc2019] meets *elite fragmentation* [@feldmann2021]
+
+**The Costs of Victory**
+
+-   **Institutional Stability**: Undermining the Enforcement Pyramid
+
+-   **Epistemic Consensus**: Destroying the “shared facts”
+
+-    **Regulatory Implementation**: Ignoring the technical complexity
+
+## The Path Forward
+
+-   Noisy politics is a powerful *shock treatment* to break a “Quiet Politics” deadlock…
+
+-   …but it may not be a *sustainable solution* for long-term regulatory governance
+
+###  
+
+→ True change requires using the *noise* to *open the door,*\
+then building **new** **consensus** and **counter**-**expertise** to walk through it.
+
+## Discussion
+
+\small
+
+-   How should we explain phenomena like *"woke capitalism"* (e.g., ESG, PC issues), where incumbents actively generate noise or leverage social issues for their benefit? Is this an evolution of Massoc's (2017) framing strategy?
+
+-   Could new models like *citizens’ assemblies* or *deliberative polling* be the alternative – safely bringing “public noise” inside the institutional framework for deliberation?
+
+-   If *simplification* is a prerequisite for political victory, how should complex technical regulations (e.g., AI, Climate Finance) be communicated to the public?
+
+-   Should regulatory experts: (a) retreat deeper into *quiet politics* to avoid political attacks, or (b) jump into the center of noisy politics and actively engage in public persuasion?
+
+-   @feldmann2021 focused on the UK, a liberal market economy. Would noisy politics have the same destructive power in coordinated market economies like Germany or Japan?
 
 \normalsize
 
