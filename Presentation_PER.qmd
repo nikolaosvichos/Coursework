@@ -182,9 +182,9 @@ Business defense works only when three conditions align:
 
 3.  Cohesion — unified signaling increases credibility and influence
 
-## Anti-Business Offense” vs “Business Defense”
+## "Anti-Business Offense” vs “Business Defense”
 
--   @massoc2019 explains how politicians win by activating the offense whereas @feldmann2021 explain how business can (or cannot) counterattack.
+-   @massoc2019 explains how politicians win by activating the offense whereas @feldmann2021 explain when business can (or cannot) counterattack.
 
 -   Offense gains power when issues are moralized, simplified, and made public. Under the same conditions, business loses:
 
@@ -198,7 +198,7 @@ Business defense works only when three conditions align:
 
 -   Massoc describes the conditions for business defeat; Feldmann and Morgan describe the mechanics of business resistance.
 
--   A full political-economy picture emerges only when offense and defense are examined together.
+-   A full political economy picture emerges only when offense and defense are examined together.
 
 ## Manicheanism
 
