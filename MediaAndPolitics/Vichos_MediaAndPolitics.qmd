@@ -1,0 +1,123 @@
+---
+title: "Coming of Age Under Trump"
+subtitle: "The Effect of First Electoral Exposure in a Trump Election on Future Media Trust"
+format: 
+  beamer:
+    keep-tex: true
+    toc: false
+    slide-level: 2
+    incremental: FALSE
+    theme: Rochester
+author: Nikolaos Vichos
+editor: visual
+date: today
+bibliography: references.bib
+---
+
+## Overview
+
+1.  Context
+2.  Literature Review
+3.  Theoretical Framework
+4.  Research Design
+
+# Context
+
+## 2016 U.S. Presidential Election
+
+-   The 2016 election was an unprecedented rupture, marked by extreme polarization and norm violations.
+
+-   Trump’s campaign used racialized appeals, anti-immigration rhetoric, and, most importantly, attacks on instutions and the media.
+
+-   Long-standing political norms—transparency, restraint, constitutional conventions—were openly disregarded.
+
+-   Young voters entering political life in 2016 faced a uniquely antagonistic and norm-breaking environment.
+
+### Research question
+
+*Does coming of age during this disruptive election affect long-term media trust?*
+
+# Literature Review
+
+## Literature Review (Formative Periods & Political Development)
+
+\small
+
+**Early Life & Early Adulthood**
+
+-   Early adversity shapes long-term attitudes/behaviors [@shonkoff2012; @bellucci2020]
+-   Early adulthood = second sensitive period; identities remain malleable [@masten2004; @arnett2000]
+
+**Political Development**
+
+-   First political encounters crystallize worldviews [@mannheim1928]
+-   Civic experiences and social environment shape long-term engagement [@wray-lake2023; @sagawa2010]
+-   Cohort effects: political climate of youth has lasting influence [@ghitza2023; @grasso2014]
+
+**First Election Effects**
+
+-   First elections form lasting turnout habits and shape partisanship [@plutzer2002; @dinas2012; @meredith2009]
+
+\normalsize
+
+## Literature Review (Elite Norms & Democratic Backsliding)
+
+**Elite Cues & Public Response**
+
+-   Citizens respond to elite norm violations, legitimizing or resisting them [@druckman2024]
+-   Fear of opposing party subversion increases tolerance for undemocratic actions [@braley2023]
+-   Polarization reduces willingness to punish copartisans for violations [@graham2020]
+
+**Relevance to 2016**
+
+-   Trump era = major elite norm breach.
+-   Exposure during coming-of-age may shape long-term support for media freedom.
+-   Study examines whether ages 18–25 in this context altered media attitudes.
+
+# Theoretical Framework
+
+## Theory and Hypotheses
+
+\small
+
+**First Encounters with Democracy**
+
+-   **H1:** Negative effect on liberal attitudes *(‘first-time sensitivity’)*.
+
+**Partisan Sensitivity**
+
+-   Partisans more responsive to political cues; independents less engaged and influenced [@magleby2011; @mandel2014]
+
+-   **H2:** First-time voting effect stronger for partisans than independents *(‘non-partisan insensitivity’).*
+
+**Asymmetric Sensitivity**
+
+-   Republicans more affectively sensitive to political context than Democrats [@carraro2011; @mandel2014]
+-   **H3:** Within partisans, effect stronger for Republicans than Democrats (*‘asymmetric sensitivity’).*
+
+\normalsize
+
+# Research Design
+
+## Methodology and Data
+
+**Design**
+
+-   Sharp RDD compares first-time voters in 2012 vs. 2016 (age 26 cutoff in 2020).
+
+-   Simulates as-if random assignment to “conventional” vs. “unconventional” political environment
+
+**Outcome: Media Trust Index**
+
+-   Constructed from 2020 ANES items on media trust, independence, and access.
+
+-   Factor analysis creates a 0–1 continuous index.
+
+**Data**
+
+-   2020 ANES, nationally representative, rich in political and media-trust measures.
+
+## Works Cited {.allowframebreaks}
+
+::: {#refs}
+:::
