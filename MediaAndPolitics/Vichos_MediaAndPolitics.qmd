@@ -82,7 +82,7 @@ bibliography: references.bib
 
 **First Encounters with Democracy**
 
--   **H1:** Negative effect on liberal attitudes *(‘first-time sensitivity’)*.
+-   **H1:** Negative effect on media attitudes *(‘first-time sensitivity’)*.
 
 **Partisan Sensitivity**
 
@@ -92,7 +92,7 @@ bibliography: references.bib
 
 **Asymmetric Sensitivity**
 
--   Republicans more affectively sensitive to political context than Democrats [@carraro2011; @mandel2014]
+-   Republicans more affectively sensitive to political context than Democrats [@carraro2011; @mandel2014] (and more to Trump cues)
 -   **H3:** Within partisans, effect stronger for Republicans than Democrats (*‘asymmetric sensitivity’).*
 
 \normalsize
@@ -103,19 +103,19 @@ bibliography: references.bib
 
 **Data**
 
--   2020 ANES,
+-   2020 ANES
+
+**Outcome: Media Trust Index**
+
+-   Constructed from 2020 ANES items on media trust, journalist access, and concerns about media freedom.
+
+-   0–1 continuous index (factor analysis)
 
 **Design**
 
 -   Sharp RDD compares those eligible to vote in 2012 vs. 2016 (age 26 cutoff in 2020).
 
 -   Simulates as-if random assignment to “conventional” vs. “unconventional” political environment
-
-**Outcome: Media Trust Index**
-
--   Constructed from 2020 ANES items on media trust, journalist access, and concerns about media freedom.
-
--   Factor analysis creates a 0–1 continuous index.
 
 ## RDD Equation
 
