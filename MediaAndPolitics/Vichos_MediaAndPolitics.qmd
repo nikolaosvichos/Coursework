@@ -103,7 +103,7 @@ bibliography: references.bib
 
 **Design**
 
--   Sharp RDD compares first-time voters in 2012 vs. 2016 (age 26 cutoff in 2020).
+-   Sharp RDD compares those eligible to vote in 2012 vs. 2016 (age 26 cutoff in 2020).
 
 -   Simulates as-if random assignment to “conventional” vs. “unconventional” political environment
 
@@ -122,6 +122,12 @@ bibliography: references.bib
 ## Results for Similar Index (Liberal Democracy)
 
 ![](Prelim_results_liberalism.png){fig-align="center" width="400"}
+
+## Questions/Concerns
+
+-   Sharp RDD according to eligibility or Fuzzy RDD according to first-time voting?
+
+-   
 
 ## Works Cited {.allowframebreaks}
 
