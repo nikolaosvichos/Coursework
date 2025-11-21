@@ -117,6 +117,12 @@ bibliography: references.bib
 
 -   2020 ANES, nationally representative, rich in political and media-trust measures.
 
+# Preliminary Results
+
+## Results for Similar Index (Liberal Democracy)
+
+![](Prelim_results_liberalism.png){fig-align="center" width="400"}
+
 ## Works Cited {.allowframebreaks}
 
 ::: {#refs}
