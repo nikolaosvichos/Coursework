@@ -101,6 +101,10 @@ bibliography: references.bib
 
 ## Methodology and Data
 
+**Data**
+
+-   2020 ANES,
+
 **Design**
 
 -   Sharp RDD compares those eligible to vote in 2012 vs. 2016 (age 26 cutoff in 2020).
@@ -109,13 +113,29 @@ bibliography: references.bib
 
 **Outcome: Media Trust Index**
 
--   Constructed from 2020 ANES items on media trust, independence, and access.
+-   Constructed from 2020 ANES items on media trust, journalist access, and concerns about media freedom.
 
 -   Factor analysis creates a 0–1 continuous index.
 
-**Data**
+## RDD Equation
 
--   2020 ANES, nationally representative, rich in political and media-trust measures.
+$$
+Y_i = \alpha + \tau D_i + f(X_i - c) + \varepsilon_i
+$$
+
+\small
+
+Where:
+
+-   $Y_i$ is the outcome, a continuous index measuring liberal attitudes.
+-   $D_i$ is an indicator equal to 1 if individual $i$’s age *exceeds* the cutoff (i.e., they were just *eligible* to vote in 2012), and 0 otherwise.\[\^3\]
+-   $\tau$ is the parameter of interest, capturing the size of the discontinuity at the threshold—that is, the causal effect of being first eligible to vote in 2012 rather than in 2016.
+-   $X_i$ is the running variable, the respondent’s age in years in 2020.
+-   $f(X_i - c)$ denotes a flexible function (e.g., first- or second-order polynomial) of the centered running variable—distance from the cutoff $c$.
+-   $c = 26$ is the cutoff point, so $X_i - c$ represents the running variable centered at the threshold.
+-   $\varepsilon_i$ is an error term.
+
+\normalsize
 
 # Preliminary Results
 

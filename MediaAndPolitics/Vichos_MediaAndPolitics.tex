@@ -377,6 +377,15 @@ Development)}
 
 \begin{frame}{Methodology and Data}
 \phantomsection\label{methodology-and-data}
+\textbf{Data}
+
+\begin{itemize}
+\tightlist
+\item
+  2020 ANES, nationally representative, rich in political and
+  media-trust measures.
+\end{itemize}
+
 \textbf{Design}
 
 \begin{itemize}
@@ -392,20 +401,51 @@ Development)}
 
 \begin{itemize}
 \item
-  Constructed from 2020 ANES items on media trust, independence, and
-  access.
+  Constructed from 2020 ANES items on media trust, journalist access,
+  and concerns about media freedom.
 \item
   Factor analysis creates a 0--1 continuous index.
 \end{itemize}
+\end{frame}
 
-\textbf{Data}
+\begin{frame}{RDD Equation}
+\phantomsection\label{rdd-equation}
+\[
+Y_i = \alpha + \tau D_i + f(X_i - c) + \varepsilon_i
+\]
+
+\small
+
+Where:
 
 \begin{itemize}
 \tightlist
 \item
-  2020 ANES, nationally representative, rich in political and
-  media-trust measures.
+  \(Y_i\) is the outcome, a continuous index measuring liberal
+  attitudes.
+\item
+  \(D_i\) is an indicator equal to 1 if individual \(i\)'s age
+  \emph{exceeds} the cutoff (i.e., they were just \emph{eligible} to
+  vote in 2012), and 0 otherwise.{[}\^{}3{]}
+\item
+  \(\tau\) is the parameter of interest, capturing the size of the
+  discontinuity at the threshold---that is, the causal effect of being
+  first eligible to vote in 2012 rather than in 2016.
+\item
+  \(X_i\) is the running variable, the respondent's age in years in
+  2020.
+\item
+  \(f(X_i - c)\) denotes a flexible function (e.g., first- or
+  second-order polynomial) of the centered running variable---distance
+  from the cutoff \(c\).
+\item
+  \(c = 26\) is the cutoff point, so \(X_i - c\) represents the running
+  variable centered at the threshold.
+\item
+  \(\varepsilon_i\) is an error term.
 \end{itemize}
+
+\normalsize
 \end{frame}
 
 \section{Preliminary Results}\label{preliminary-results}
