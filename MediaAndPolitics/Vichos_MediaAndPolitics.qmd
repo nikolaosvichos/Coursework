@@ -127,8 +127,6 @@ bibliography: references.bib
 
 -   Sharp RDD according to eligibility or Fuzzy RDD according to first-time voting?
 
--   
-
 ## Works Cited {.allowframebreaks}
 
 ::: {#refs}
