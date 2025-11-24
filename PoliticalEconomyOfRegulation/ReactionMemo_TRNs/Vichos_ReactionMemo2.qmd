@@ -1,0 +1,49 @@
+---
+title: "Global Markets and Domestic Regulation: A Structural Mismatch?"
+author: "Nikolaos Vichos"
+format: pdf
+sansfont: "Latin Modern Roman"
+bibliography: references.bib
+fontsize: 10pt
+---
+
+## Introduction
+
+In this reaction memo, I discuss the articles of @verdier2009 and @thiemann2014. While both at largely revolve around the limits of Transnational Regulatory Networks (TRNs) like the Basel Accords, they address these limits in distinct ways. @verdier2009 takes a more holistic view of TRNs' limits, focusing on domestic constraints, distributive concerns, and enforcement issues through three case studies (Basel, IOSCO, and ICN). Instead, @thiemann2014 mostly examines distributive concerns—specifically, concerns over competitiveness—and argues that the Basel Accords not only failed to prevent regulatory loopholes in banks' securitization activities but actively undermined national regulators' ability to address these loopholes in the first place. While the focus of these two texts renders them quite complementary and puts them in active conversation with each other, they also diverge in some important aspects: here, I specifically focus on (i) the two papers' different levels of importance placed on enforcement mechanisms of TRNs and (ii) their distinct understandings of regulators' agency (or, in the case of @thiemann2014, lack thereof). Bridging these two gaps through a more unified conceptual framework could allow for a more complete understanding of the limits of TRNs.
+
+## Enforcement Mechanisms or Lack Thereof?
+
+The two papers approach the enforcement dimension of TRNs in quite distinct ways: whereas @verdier2009 explicitly acknowledges that TRNs are severely handicapped in their enforcement capacities—essentially lacking them completely—and recognizes this handicap as a limit, @thiemann2014, albeit implicitly, partly takes enforcement for granted and, most importantly, recognizes its presence (rather than its absence, as @verdier2009) as a limiting factor.
+
+@verdier2009 is quite explicit in arguing that TRNs' lack of enforcement mechanisms constitute a key limitation. TRN's fall remarkably short of the enforcement measures of formal treaties and institutions: for example, he highlights how the "Basel Committee does not have any formal review, monitoring, or enforcement mechanism" [@verdier2009, 132]. The author argues that Basel was initially enforced largely due to the active interest of the US and the UK (the two states that pushed for Basel in the first place)[^1]; when this active interest began to dry out—combined with the pressure faced by countries like Japan to 'legally' renege on the agreement—the lack of formal monitoring or enforcement mechanisms simply meant that national regulators were free to selectively interpret the the accords to fit their own interests,[^2] facing little to no repercussions.
+
+[^1]: An interesting connection to @thiemann2014 is that the reason that the two states wanted Basel enforced was competitiveness concerns about their own banks.
+
+[^2]: In this case, the interests concerned the safeguarding of the competitiveness of national banks.
+
+On the other hand, @thiemann2014 does not explicitly address the issue of enforcement: in his view, the issue lies not in enforcement but in the very design of the accords and the structural conditions they create. Nevertheless, one part where the issue of enforcement does arise is when discussing retaliatory restrictions to market access against countries with looser regulation: "accession to the global Accords prevents countries from closing their markets to those competitors which have looser regulations" [@thiemann2014, 26]. Here, the author seemingly takes for granted that countries will comply with the requirements placed upon them upon accession to the Accords; in fact, it is this very compliance that appears to be problematic, contributing to the "structural conditions for a regulatory ‘competition in laxity’" (26) by partly preventing states from imposing/demanding higher standards. Nevertheless, given the lack of enforcement mechanisms discussed by @verdier2009, the nature of instrument that prevents countries from limiting market access remains quite unclear.
+
+More research into the specific nature of the enforcement (or lack thereof) of the Basel Accords would be needed to bridge these two arguments. Whereas the lack of enforcement mechanisms is the issue for @verdier2009, @thiemann2014 sees the presence of one specific requirement as contributing to an already problematic framework. However, the extent to which this specific requirement would be actually enforced—likely through informal collective action/pressure by other signatories rather than formal channels—constitutes an important asterisk to either argument: if informal channels can pressure other countries into compliance (similar to Verdier's (2009) discussion of IOSCO), this might render the lack of formal mechanisms less problematic than @verdier2009 envisioned. On the other hand, if these informal channels are absent or weak, Thiemann's (2014) loses part of its appeal.
+
+## What Drives Regulators?
+
+The two authors also diverge in their understanding of national regulators' incentives. Whereas @verdier2009 grants them signficant agency by presenting them as either autonomy-seeking legislator-avoiders or self-interested agents that might fail to pursue the public good, @thiemann2014 portrays them as significantly restricted by the conditions imposed by Basel and thereby largely powerless in the face of structural forces.
+
+@verdier2009 provides a largely agentic portrayal of national regulators. In his view, regulators seek to maintain their regulatory autonomy by avoiding legislative intervention; to achieve that, they will propose regulation that is "neither too lenient (thus threatening financial stability) \[nor\] too stringent (thus undermining competitiveness)" [@verdier2009, 135]. In a similar vain, it is national regulators who, in the case of Basel, adopted interpretations of the Accords that allowed them to maintain lower capital levels—this power to interpret grants regulators a significant level of agency. Finally, the author's model of a self-interested, autonomy-seeking regulator also appears in his discussion of social networks. In criticizing existing accounts of social networks as instruments for international cooperation, he proposes a contrasting understanding where such networks could instead lead to "cooperative relationships among actors pursuing undesirable goals" [@verdier2009, 166]. Whether those goals might be maximizing their agency's budget [@verdier2009, 170] or other self-interested ends is not necessarily relevant; what matters is that this is an inherently agentic account that places regulators and their individual decisions at the center of the process.
+
+@thiemann2014 presents a diametrically different portrayal of national regulators. Despite acknowledging the potential for cognitive capture, especially in countries like Germany, he argues it is the structural constraints imposed by the Accords that drive the actions of regulators. This structural account moved them from the center to the margins: given the structural conditions established by Basel, in conjunction with existing overarching concerns about competitive inequity, national regulators have little choice but to engage in a regulatory race to the bottom.
+
+These two papers present significantly different accounts of regulators' role within the context of TRNs. Nevertheless, out of the two, it is @thiemann2014 who arguably goes the furthest in reconciling the two: whereas Verdier's (2009) account is inherently agentic, leaving little room for structural forces[^3], @thiemann2014 does leave some room for agency when acknowledging the presence of variation in national regulatory regimes (namely, in the cases of Spain and Poland). Further research into these two cases could potentially enable for a better reconciliation of the two arguments and a clearer view of the impact of both micro/agentic and macro/structural forces.
+
+[^3]: In his case, the closest thing to a structural force would be the institutional factor of the TRNs themselves; nevertheless, this should be better viewed as a meso-level variable rather than a macro/structural one.
+
+## Conclusion
+
+In conclusion, in this brief memo, I have discussed how two otherwise very similar papers differ significantly in their understanding of the power of enforcement mechanisms and in the level of agency they grant to national regulators. In addition to examining these issues in close detail, I attempted to propose some ways to reconcile them through further research in the power of informal enforcement mechanisms and variations in national regulatory regimes. Bridging these differences could allow for a more complete understanding of how enforcement gaps and regulatory agency interact to shape TRN outcomes.
+
+{{< pagebreak >}}
+
+## Works Cited
+
+::: {#refs}
+:::
